@@ -1,0 +1,8 @@
+5.4.0b14-HTP:2.2.0.0
+StandaloneWindows
+D:/Program Files/Unity Hololens 5.4.0b14-HTP/Editor/Data/Managed/UnityEngine.dll
+D:/Program Files/Unity Hololens 5.4.0b14-HTP/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Program Files/Unity Hololens 5.4.0b14-HTP/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Program Files/Unity Hololens 5.4.0b14-HTP/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/Program Files/Unity Hololens 5.4.0b14-HTP/Editor/Data/Managed/UnityEditor.dll
+D:/Program Files/Unity Hololens 5.4.0b14-HTP/Editor/Data\Managed/Mono.Cecil.dll

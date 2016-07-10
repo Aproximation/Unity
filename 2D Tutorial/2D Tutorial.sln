@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Tutorial.CSharp.Plugins", "2D Tutorial.CSharp.Plugins.csproj", "{DE559B1E-496F-5A30-0239-AF98A467C733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Tutorial.CSharp", "2D Tutorial.CSharp.csproj", "{2CDE4829-44A2-F6D5-DF88-32AE3F31F6B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE559B1E-496F-5A30-0239-AF98A467C733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE559B1E-496F-5A30-0239-AF98A467C733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE559B1E-496F-5A30-0239-AF98A467C733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE559B1E-496F-5A30-0239-AF98A467C733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDE4829-44A2-F6D5-DF88-32AE3F31F6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE4829-44A2-F6D5-DF88-32AE3F31F6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE4829-44A2-F6D5-DF88-32AE3F31F6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE4829-44A2-F6D5-DF88-32AE3F31F6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
