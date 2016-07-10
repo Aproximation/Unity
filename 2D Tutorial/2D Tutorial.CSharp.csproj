@@ -75,6 +75,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ArmRotation.cs" />
     <Compile Include="Assets\Parallaxing.cs" />
     <Compile Include="Assets\Tiling.cs" />
   </ItemGroup>
