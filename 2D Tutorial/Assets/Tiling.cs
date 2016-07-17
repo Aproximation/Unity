@@ -67,7 +67,7 @@ public class Tiling : MonoBehaviour
         // instantating our new body and storing him in a variable
         Transform newBuddy = Instantiate(myTransform, newPosition, myTransform.rotation) as Transform;
 
-        FixArrays(newBuddy);
+        //FixArrays(newBuddy);
         
         // if not tilable let's reverse the x size of our object to get rid of ugly seams
         if (reverseScale == true)
